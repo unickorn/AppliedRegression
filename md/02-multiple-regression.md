@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The linear model seen in the previous lecture can be extended to multiple variables. This is usefull if we want to predict the price of a house based on more than just one variable, e.g. the size **and** the number of rooms.
+The linear model seen in the previous lecture can be extended to multiple variables. This is useful if we want to predict the price of a house based on more than just one variable, e.g. the size **and** the number of rooms.
 
 Otherwise the model stays the same. This time however we want to fit a hyperplane to the data.
 
