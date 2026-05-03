@@ -162,7 +162,7 @@ $$
 y = \hat{y} + e
 $$
 
-This means that the observed value $y$ can be writen as the sum of the predicted value $\hat{y}$ and the orthogonal residual $e$.
+This means that the observed value $y$ can be written as the sum of the predicted value $\hat{y}$ and the orthogonal residual $e$.
 
 ### Maximum likelihood
 
